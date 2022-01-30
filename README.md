@@ -1,5 +1,7 @@
-### Hi there 👋 I'm Vintage Coder
+<h1 align="center">Hi 👋, I'm Vintage Coder</h1>
+<h3 align="center">A passionate C#.NET developer from India</h3>
 
+<img align="right" alt="GIF" src="https://github.com/vintage-coder/vintage-coder/blob/main/Image%20Source/rolling_chair.gif" width="500" height="320" />
 
 - 🔭 I’m currently working as ... C#.NET Developer
 - 🌱 I’m currently learning ... .NET Related Technologies
