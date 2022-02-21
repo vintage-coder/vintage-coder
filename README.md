@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vintage Coder</h1>
-<h3 align="center">A passionate C#.NET developer from India</h3>
+<h3 align="center">Software Engineer from India</h3>
 
 <img align="right" alt="GIF" src="https://github.com/vintage-coder/vintage-coder/blob/main/Image%20Source/batman.gif" width="500" height="320" />
 
