@@ -1,6 +1,6 @@
 
 <img align="left" alt="vintage_banner" src="https://github.com/vintage-coder/vintage-coder.github.io/blob/main/Images/vintage_banner.jpg" width="1500" height="320" />
-<h1 align="center">Привет 👋, I'm Vintage Coder</h1>
+<h1 align="center">Hello👋, I'm Vintage Coder</h1>
 <h3 align="center">Software Engineer from India</h3>
 
 <img align="right" alt="GIF" src="https://github.com/vintage-coder/vintage-coder/blob/main/Image%20Source/batman.gif" width="500" height="320" />
