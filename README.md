@@ -8,9 +8,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vintage-coder" alt="vintage-coder" /></a> </p>
 
-
-<h1 align="left">Me Around the Web</h1>
-
+<p align="left">
+  <img align="center" src="social_media.svg" alt="vintage-coder" height="100" width="400" />
+</p>
+<hr/>
 <p align="left">
 <a href="https://stackoverflow.com/users/10439286/vintage-coder" target="blank">
   <img align="center" src="Image Source/logo-stackoverflow.svg" alt="vintage-coder" height="100" width="100" />
