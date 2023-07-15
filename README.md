@@ -1,17 +1,18 @@
+<p align="center">
+   <img align="left" alt="vintage_banner" src="Image Source/VintageCoderProfile.png" width="1500" height="320" /> 
+</p>
 
-<img align="left" alt="vintage_banner" src="Image Source/VintageCoderProfile.png" width="1500" height="320" />
-<h1 align="center">Hola👋, I'm Vintage Coder</h1>
+
 <h1 align="center">Professional Microsoft .NET Developer</h1>
 
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vintage-coder" alt="vintage-coder" /></a> </p>
 
 <p align="left">
-  <img align="center" src="social_media.svg" alt="vintage-coder" height="100" width="400" />
+  <img align="center" src="social_media.svg" alt="vintage-coder" height="70" width="400" />
 </p>
-<hr/>
+
 <p align="left">
 <a href="https://stackoverflow.com/users/10439286/vintage-coder" target="blank">
   <img align="center" src="Image Source/logo-stackoverflow.svg" alt="vintage-coder" height="100" width="100" />
@@ -22,7 +23,11 @@
 </p>
 
 
-<h1 align="left">Technologies</h1>
+
+<p align="left">
+  <img align="center" src="technologies.svg" alt="vintage-coder" height="70" width="400" />
+</p>
+
 
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -47,6 +52,12 @@
 
 
 
+<p align="left">
+  <img align="center" src="statistics.svg" alt="statistics" height="70" width="700" />
+</p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vintage-coder" alt="vintage-coder" /></a> </p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vintage-coder&show_icons=true&locale=en&layout=compact" alt="vintage-coder" /></p>
