@@ -1,40 +1,63 @@
-
-<img align="left" alt="vintage_banner" src="https://github.com/vintage-coder/vintage-coder.github.io/blob/main/Images/vintage_banner.jpg" width="1500" height="320" />
-<h1 align="center">Hello👋, I'm Vintage Coder</h1>
-<h3 align="center">Full Stack Microsoft .NET Developer</h3>
-
-<img align="right" alt="GIF" src="https://github.com/vintage-coder/vintage-coder/blob/main/Image%20Source/batman.gif" width="500" height="320" />
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vintage-coder" alt="vintage-coder" /></a> </p>
-
-
-<h3 align="left">Connect With Me</h3>
-
-<p align="left">
-<a href="https://stackoverflow.com/users/10439286/vintage-coder" target="blank"><img align="center" src="https://github.com/vintage-coder/vintage-coder/blob/main/Image%20Source/stack-overflow.svg" alt="vintage-coder" height="30" width="40" /></a>
+<p align="center">
+   <img align="left" alt="vintage_banner" src="Image Source/VintageCoderProfile.png" width="1500" height="320" /> 
 </p>
 
 
-<h3 align="left">Languages and Tools</h3>
+<h1 align="center">Professional Microsoft .NET Developer</h1>
+
+
+
+
+
+<p align="left">
+  <img align="center" src="social_media.svg" alt="vintage-coder" height="70" width="400" />
+</p>
+
+<p align="left">
+<a href="https://stackoverflow.com/users/10439286/vintage-coder" target="blank">
+  <img align="center" src="Image Source/logo-stackoverflow.svg" alt="vintage-coder" height="100" width="100" />
+</a>
+  <a href="https://stackoverflow.com/users/10439286/vintage-coder" target="blank">
+   <img align="center" src="Image Source/LinkedIn_Logo_2014.svg" alt="vintage-coder" height="100" width="100" />
+  </a>
+</p>
+
+
+
+<p align="left">
+  <img align="center" src="technologies.svg" alt="vintage-coder" height="70" width="400" />
+</p>
+
 
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://github.com/vintage-coder/vintage-coder/blob/main/Image%20Source/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  <img src="Image Source/csharp-original.svg" alt="bootstrap" width="100" height="100"/> 
   </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://github.com/vintage-coder/vintage-coder/blob/main/Image%20Source/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+    <img src="Image Source/Xamarin-logo.svg" alt="csharp" width="100" height="100"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/vintage-coder/vintage-coder/blob/main/Image%20Source/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="Image Source/dot-net-core-7.svg" alt="css3" width="100" height="100"/> 
   </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/vintage-coder/vintage-coder/blob/main/Image%20Source/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="Image Source/microsoft-sql-server-logo.svg" alt="html5" width="100" height="100"/>
   </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="Image Source/microsoft-dot-net-icon.svg" alt="python" width="100" height="100"/>
+  </a> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="Image Source/microsoft-6.svg" alt="python" width="100" height="100"/>
   </a> 
 </p>
 
 
 
+<p align="left">
+  <img align="center" src="statistics.svg" alt="statistics" height="70" width="700" />
+</p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vintage-coder" alt="vintage-coder" /></a> </p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vintage-coder&show_icons=true&locale=en&layout=compact" alt="vintage-coder" /></p>
