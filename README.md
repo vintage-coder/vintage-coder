@@ -1,12 +1,14 @@
 <p align="center">
+   <img align="left" alt="commodore_64_logo" src="Image Source/Commodore_64_logo.svg" width="1500" height="120" /> 
+</p>
+
+
+<p align="center">
    <img align="left" alt="vintage_banner" src="Image Source/VintageCoderProfile.png" width="1500" height="320" /> 
 </p>
 
 
 <h1 align="center">Professional Microsoft .NET Developer</h1>
-
-
-
 
 
 <p align="left">
