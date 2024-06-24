@@ -8,7 +8,7 @@
 </p>
 
 
-<h1 align="center">Professional Microsoft .NET Developer</h1>
+<h1 align="center">Microsoft .NET Developer</h1>
 
 
 <p align="left">
