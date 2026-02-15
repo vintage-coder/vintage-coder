@@ -1,12 +1,4 @@
-
-
-
-<p align="center">
-   <img align="left" alt="vintage_banner" src="Image Source/VintageCoderProfile.png" width="1500" height="320" /> 
-</p>
-
-
-<h1 align="center">Microsoft .NET Developer</h1>
+<h1 align="center">Full Stack .NET Developer</h1>
 
 
 <p align="left">
