@@ -1,5 +1,6 @@
 <h1 align="center">Full Stack .NET Developer</h1>
 
+<img width="350" height="500" alt="image" src="https://github.com/user-attachments/assets/cf4b8e99-9db6-4039-966e-f0e1031647cc" />
 
 <p align="left">
   <img align="center" src="social_media.svg" alt="vintage-coder" height="70" width="400" />
